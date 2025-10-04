@@ -2,8 +2,11 @@
 ORCA (Orbital Recycling & Circularity Architecture) is a youth-led innovation tackling Mars waste challenges, where traditional disposal is impossible and resupply limited. Designed by a dynamic youth team, all high schoolers from Dhaka, showcasing fresh talent in space innovation, it fuses MIRU’s mechanical shred/melt/extrude tech with BICL’s bio-inspired metabolism, transforming inorganics into habitat resources. This zero-waste system supports Renovations (reusing foams/alloys for structures), Celebrations (turning pouches into morale-boosting décor), and Discoveries (repurposing carbon-based waste into advanced material loops)—maximizing recovery with minimal energy and water. A global “Wish Wall” portal connects Earthlings to Martians, fostering cultural ties and STEM inspiration. ORCA shifts exploration from exploitative to regenerative, proving young innovators can pioneer sustainable space futures.
 
 Google Drive link - https://docs.google.com/document/d/1wIKc2lGD9gLGv-dbYwI8ggnYqA01HcuN2eIX7EiDvZw/edit?usp=sharing
-Core ORCA System
-2.1 Modular Intelligent Recycling Unit (MIRU):A plug-and-play core processing inorganics, leveraging AI-sorting (optical/thermal/magnetic sensors) to handle ~4 kg/sol. Design principles: Compact sealed modules for dust/radiation protection, scalable for colony growth (TRL 5–7 [3], inspired by NASA's Refabricator/Trash Compaction Processing System (TCPS) [14]). Regolith and waste mixing enhance material durability [1], addressing in-space manufacturing gaps [7].
+
+
+**Core ORCA System**
+2.1 _Modular Intelligent Recycling Unit (MIRU)_:A plug-and-play core processing inorganics, leveraging AI-sorting (optical/thermal/magnetic sensors) to handle ~4 kg/sol. Design principles: Compact sealed modules for dust/radiation protection, scalable for colony growth (TRL 5–7 [3], inspired by NASA's Refabricator/Trash Compaction Processing System (TCPS) [14]). Regolith and waste mixing enhance material durability [1], addressing in-space manufacturing gaps [7].
+
 Plastics: Shredded, melted, extruded into 3D-printing filament (design goal: high recovery for structural panels).
 Metals: Induction melting + reshaping into tools/alloys (e.g., low-temp alloys for supports).
 Fabrics/Clothing: Shredded and repurposed into insulation/filters (e.g., thermal patches).
@@ -15,7 +18,9 @@ Foams/Insulation: Compaction/reshaping for substrates.
        
   
  
-2.2 Bio-Inspired Closed Loop (BICL): A sealed booster chamber inside MIRU, drawing from fungal binding techniques as a horizon vision to reinforce and repurpose inorganic wastes into composite materials. Inspiration: Indigenous weaving/mycelial processes for cultural value [5]. Inorganic waste categorization guides its focus [8], with myco-material feasibility tested against in-space needs [7]. Martian regolith binding relevance leverages MGS-1 simulant data [1].
+2.2 _Bio-Inspired Closed Loop (BICL):_ A sealed booster chamber inside MIRU, drawing from fungal binding techniques as a horizon vision to reinforce and repurpose inorganic wastes into composite materials. 
+
+Inspiration: Indigenous weaving/mycelial processes for cultural value [5]. Inorganic waste categorization guides its focus [8], with myco-material feasibility tested against in-space needs [7]. Martian regolith binding relevance leverages MGS-1 simulant data [1].
 Fungal-Inspired Binding: Reinforces microplastics/foams into myco-panels (e.g., drawing from Ganoderma lucidum analogs for insulation [6], Pleurotus ostreatus for structural composites [7]).
 Myco-Architecture Bricks & Panels: Conceptual integration of regolith/inorganics into sturdy elements, using MGS-1 simulant compositions [11].
 Foam Binding & Recycling: Reinforces insulation with fungal-inspired networks, minimizing water per waste management studies [12].
@@ -23,30 +28,30 @@ Microplastic Capture & Rebinding: Traps/resolidifies residues into usable compos
 All components conceptualize sealed chambers inside MIRU to explore future biocontainment, with outputs feeding into Core MIRU for habitat use.
 
 
-2.3 Hydraulic Press Module: Dual units (external for oversized inputs >2x2m door, internal for output reduction) as preprocessing step, reducing volume and preparing feedstock [6]. Foam/packaging reuse draws from lunar dual-use concepts [5], while regolith and panel shaping integrate Jezero minerals (e.g., 20.3% pyroxene) [1][2].
+2.3 _Hydraulic Press Module_: Dual units (external for oversized inputs >2x2m door, internal for output reduction) as preprocessing step, reducing volume and preparing feedstock [6]. Foam/packaging reuse draws from lunar dual-use concepts [5], while regolith and panel shaping integrate Jezero minerals (e.g., 20.3% pyroxene) [1][2].
 Foam Compaction: Reduces storage needs for habitat use.
 Regolith Blending: Integrates Jezero minerals for shielding composites.
 Panel Formation: Shapes outputs for repairs.
  
 
-2.4 Core Digital Layer: Real-Time Portal: AI dashboard with NASA APIs (e.g., Mars Weather for env optimization [4], Power for energy scheduling [14]). Waste stream dashboards classify non-metabolic waste [8], with energy-water optimization informed by long missions [6]. Dual-use cultural/logistics crossover enhances engagement [5], addressing in-space manufacturing gaps [7]. The portal promotes STEM challenges and citizen participation, inspiring global collaboration in Mars missions [9].
+2.4 _Core Digital Layer: Real-Time Portal:_ AI dashboard with NASA APIs (e.g., Mars Weather for env optimization [4], Power for energy scheduling [14]). Waste stream dashboards classify non-metabolic waste [8], with energy-water optimization informed by long missions [6]. Dual-use cultural/logistics crossover enhances engagement [5], addressing in-space manufacturing gaps [7]. The portal promotes STEM challenges and citizen participation, inspiring global collaboration in Mars missions [9].
 Onboard Dashboard: Monitors system health with real-time metrics, accessible to students for analysis projects.
 Earth Integration: "Wish Wall" for citizen messages/art submissions, plus STEM challenges (e.g., designing waste solutions) and data-sharing for public insight into Mars recycling.
 Future Accord Readiness: Blockchain for audits under Interplanetary Waste Accord, fostering citizen oversight and educational outreach.
  
-
-Rationale
+**
+Rationale**
 STEM Challenges: Adds educational value (e.g., high schoolers like your team tackling Mars problems), boosting Inspirational score. Links to [9] for CSA’s youth engagement focus.
 Citizen Participation: Expands "Wish Wall" to include data analysis or mission input (e.g., voting on décor designs), echoing NASA’s citizen science (e.g., Mars Trek). Ties to [5] for dual-use cultural logistics.
 Citations: [4][6][7][8][14] retained for tech backbone; [9] added for outreach; [5] for cultural crossover.
 
 
-Our Solution
+**Our Solution**
 ORCA's workflow: Waste → External Press → MIRU Intake → AI Sort → BICL Enhance → Internal Press → Outputs. Adaptive via APIs for Martian conditions (e.g., dust storms from MWS [4]).
 What is Space Waste?
 Space waste includes ~3 kg/crew/day inorganics (plastics 70% in packaging, metals from tools) [8]. At Jezero, regolith (10µm-2mm particles, perchlorates 0.05-1.05 wt%) from MGS-1 simulant [1] integrates for shielding—ORCA recycles to prevent contamination and enhance habitat resilience.
 .
-Prospect of ORCA
+**Prospect of ORCA**
 Enables Long-Duration Missions: Reduces resupply needs by recycling 85% of inorganics into 3D-printing filament, tools, and habitat panels, saving ~5,000 kg in payload mass over three years [6].
 Scales to Moon and Asteroid Habitats: Modular design of MIRU and BICL allows adaptation for lunar bases or asteroid mining outposts, supporting NASA’s Artemis and deep-space goals [7].
 Earth Applications in Disaster Zones: ORCA’s waste-to-resource model can be deployed in remote terrestrial regions or disaster zones, converting debris into shelters or tools, inspired by dual-use lunar concepts [5].
@@ -54,13 +59,14 @@ Prevents a “Second Space Junk Crisis”: Learns from Earth’s 36,000+ orbital
 Inspires STEM Participation: The “Wish Wall” and STEM challenges engage global youth, fostering cultural crossovers (e.g., Martian décor from Earth designs) and driving innovation through open-source challenges [9].
 Bridges In-Space Manufacturing Gaps: Introduces a hybrid AI-biological recycling model, combining MIRU’s AI sorting with BICL’s fungal binding to create scalable, low-energy solutions for future colonies [7].
 
-How Does It Work?
+**How Does It Work?**
 ORCA’s workflow transforms waste into resources through a seamless integration of preprocessing, sorting, bio-enhancement, and output shaping. Waste enters via the External Hydraulic Press for volume reduction, flows to the Modular Intelligent Recycling Unit (MIRU) for AI-driven sorting, is enhanced by the Bio-Inspired Closed Loop (BICL) for composite creation, and is finalized by the Internal Hydraulic Press for precise outputs. The Core Digital Layer optimizes operations with NASA APIs (e.g., Mars Weather Service [4], POWER [14]) and engages global audiences via the “Wish Wall.” Below are detailed scenarios addressing NASA’s challenge elements:
 3.1 Residence Renovations
 Scenario: Recycling habitat cubes, foam packaging, aluminum structures, and polymer composites for structural repairs and upgrades.
 Workflow: Waste is compacted by the External Hydraulic Press, sorted by MIRU’s AI sensors (optical/thermal/magnetic), enhanced by BICL for composite strength, and shaped by the Internal Hydraulic Press into panels or struts.
 
-Challenge Element
+**Challenge Element**
+
 Input / Current System
 Core MIRU
 BICL
@@ -76,6 +82,8 @@ Aluminum / frames
 Stored for potential reuse
 Restructures aluminum into supports
 —
+
+
 Reshapes small struts
 Mechanical recycling allows reuse in repairs; preserves habitat resources [7]
 Plastic sheets / wrap
@@ -84,6 +92,8 @@ Extrudes into filament
 Optional shaping for structural reinforcement
 Flattens/compacts for stock
 Feeds into 3D printing or panel formation; reduces storage footprint
+
+
 
 Notes:
 MIRU handles all sorting, shredding, and material prep of inorganic inputs.
@@ -96,7 +106,7 @@ Hydraulic Press ensures space-efficient storage and precise shaping of habitat r
 
 
 
-3.2 Cosmic Celebrations
+3.2 _Cosmic Celebrations_
 Scenario: Repurposing clothing, wipes, wraps, and pouches into party supplies or morale-boosting décor, with Earthling contributions via the “Wish Wall.”
 Workflow: Organic waste (e.g., cotton) is processed by BICL for biomass, while inorganics (e.g., plastic pouches) are sorted by MIRU and pressed into decorative shapes. The Core Digital Layer displays Earth-submitted designs as holograms or dashboard icons.
 
@@ -136,7 +146,7 @@ Hydraulic Press ensures output consistency and durability for crew use.
 The “Wish Wall” integrates global engagement, reinforcing morale and outreach.
 
 
-3.3 Daring Discoveries
+3.3 _Daring Discoveries_
 Scenario: Recycling oxygen extraction devices, EVA waste, filters, carbon byproducts, and gloves for scientific and operational reuse.
 Workflow: MIRU sorts plastics and metals from EVA waste, BICL processes organic residues, and the Hydraulic Press compacts or reshapes materials for reuse (e.g., fuel precursors or hardware).
 
